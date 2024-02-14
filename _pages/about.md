@@ -17,42 +17,100 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a PhD student in the Electronic and Computer Engineering department of [Hong Kong University of Science and Technology](https://hkust.edu.hk/), [AI Chip Center for Emerging Smart Systems](https://inno-access.hk/), and a member of [Vision and System Design Lab (VSDL)](https://vsdl.hkust.edu.hk/index.html) under the supervision of [Prof. Kwang-Ting CHENG](https://seng.hkust.edu.hk/about/people/faculty/tim-kwang-ting-cheng). I obtained my BEng degree in Microelectronic Science and Engineering from [Southern University of Science and Technology](https://www.sustech.edu.cn/en/) in 2022, advised by [Prof. Fengwei An](https://faculty.sustech.edu.cn/anfw/en/). My research realm focuses on computer vision, model compression, AI chip, computer architecture, and software-hardware co-design. You can find more information through my [CV](../images/CanadaCast_CV_example.pdf). Welcome to contact with me if you have any interests.  
+E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+ -->
+# 📖 Educations
+- *2022.09 - Present*, PhD in Electronics and Computer Engineering, Hong Kong University of Science and Technology.
+- *2018.08 - 2022.06*, BEng in Microelectronics Science and Engineering, School of Microelectronics, Southern University of Science and Technology. **GPA: 3.84/4.00, Rank: 4/93**
+- *2015.09 - 2018.06*, [Guangdong Beijiang Middle School](https://zh.m.wikipedia.org/zh-hk/%E5%B9%BF%E4%B8%9C%E5%8C%97%E6%B1%9F%E4%B8%AD%E5%AD%A6). 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022* Hong Kong PhD Fellowship 
+- *2022* HKUST RedBird PhD Scholarship
+- *2022* Outstanding Graduate (Top 8 in the College of Engineering, SUSTech) 
+- *2021* China National Scholarship (Top 8 in SUSTech)
+- *2021* Scientific Research Star (Top 1 in Shuren College, SUSTech)
+- *2021* Shenzhen Longsys Electronics Company Award. (Top 2% in School of Microelectronics)
+- *2021* Best Presentation Award in IEEE CASS Shanghai and Shenzhen Joint Workshop 
+- *2020* The First Prize of Outstanding Students in SUSTech (Top 5% in SUSTech)
+- *2019* The Second Prize of Outstanding Students in SUSTech (Top 10% in SUSTech)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 News
+- *2022.6.6*: &nbsp;🎉🎉 Our stereo depth coprocessor has sucessfully been taped out in TSMC 28nm CMOS technology! 
+- *2023.5.24*: &nbsp;🎉🎉 One paper "A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles" has been accepted by IEEE ESSDERC/ESSCIRC 2023!
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📝 Main Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSCIRC</div><img src='images/esscirc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles](https://ieeexplore.ieee.org/document/10268790)
+
+**Pingcheng Dong**, Zhuoyu Chen, Ke Li, Lei Chen, Kwang-Ting Cheng, Fengwei An. 
+
+**2023**, *IEEE 49th European Solid State Circuits Conference (ESSCIRC)*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II</div><img src='images/tcas2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Configurable Image Rectification and Disparity Refinement for Stereo Vision](https://ieeexplore.ieee.org/abstract/document/9832005)
+
+**Pingcheng Dong**, Zhuoyu Chen, Zhuoao Li, Ruoheng Yao, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An. 
+
+**2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I</div><img src='images/tcas1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application](https://ieeexplore.ieee.org/abstract/document/9505253)
+
+**Pingcheng Dong**, Zhuoyu Chen, Zhuoao Li, Yuzhe Fu, Lei Chen, Fengwei An.  
+
+**2021**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">A-SSCC</div><img src='images/asscc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A 139 fps pixel-level pipelined binocular stereo vision accelerator with region-optimized semi-global matching](https://ieeexplore.ieee.org/abstract/document/9634805)
+
+**Pingcheng Dong**, Zhuoao Li, Zhuoyu Chen, Ruoheng Yao, Huanshihong Deng, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An.   
+
+**2021** *IEEE Asian Solid-State Circuits Conference (A-SSCC)*
+
+</div>
+</div>
+
+- [Real-Time FPGA-Based Binocular Stereo Vision System with Semi-Global Matching Algorithm](https://ieeexplore.ieee.org/abstract/document/9739626). Zhuoyu Chen, **Pingchen Dong**, Zhuoao Li, Ruoheng Yao, Yunhao Ma, Xiwei Fang, Huanshihong Deng, Wenyue Zhang, Lei Chen, Fengwei An. **2021** *IEEE 34th International System-on-Chip Conference (SOCC)*
+
+- [Robot navigation based on pseudo-binocular stereo vision and linear fitting](https://ieeexplore.ieee.org/abstract/document/9332014). Huanshihong Deng, **Pingcheng Dong**, Zhuoao Li, Haoran Lyu, Yangyi Zhang, Yiwei Luo, Fengwei An. **2020** *IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)*
+
+# 📝 Collaborative Publications
+- [BREAD: Boundary and Relation Distillation for Semantic Segmentation](https://arxiv.org/abs/2401.13174). Dong Zhang, **Pingcheng Dong**, Xinting Hu, Long Chen, Kwang-Ting Cheng. **2024**, *arXiv*
+
+- [LLM-FP4: 4-Bit Floating-Point Quantized Transformers](https://arxiv.org/abs/2310.16836). Shih-yang Liu, Zechun Liu, Xijie Huang, **Pingcheng Dong**, Kwang-Ting Cheng. **2023**, *EMNLP Main Conference*
+
+- [A Compact Hardware Architecture for Bilateral Filter with the Combination of Approximate Computing and Look-up Table](https://ieeexplore.ieee.org/abstract/document/9733932). Ruoheng Yao, Lei Chen, **Pingcheng Dong**, Zhuoyu Chen, Fengwei An. **2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs*
+
+# 😀 Teaching Assistant
+- ELEC3400 Introduction to Integrated Circuits and Systems (2023 Spring)
+- ELEC4320 FPGA based Design: From Theory to Practice (2023 Fall)
+
+
+
+  
+  
+
+
+
