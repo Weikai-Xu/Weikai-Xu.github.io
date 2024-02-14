@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -97,12 +96,12 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 - [Robot navigation based on pseudo-binocular stereo vision and linear fitting](https://ieeexplore.ieee.org/abstract/document/9332014). Huanshihong Deng, **Pingcheng Dong**, Zhuoao Li, Haoran Lyu, Yangyi Zhang, Yiwei Luo, Fengwei An. **2020** *IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)*
 
 # 📝 Collaborative Publications
-- [BREAD: Boundary and Relation Distillation for Semantic Segmentation](https://arxiv.org/abs/2401.13174). Dong Zhang, **Pingcheng Dong**, Xinting Hu, Long Chen, Kwang-Ting Cheng. **2024**, *arXiv*
+<!-- - [BREAD: Boundary and Relation Distillation for Semantic Segmentation](https://arxiv.org/abs/2401.13174). Dong Zhang, **Pingcheng Dong**, Xinting Hu, Long Chen, Kwang-Ting Cheng. **2024**, *arXiv*
 
 - [LLM-FP4: 4-Bit Floating-Point Quantized Transformers](https://arxiv.org/abs/2310.16836). Shih-yang Liu, Zechun Liu, Xijie Huang, **Pingcheng Dong**, Kwang-Ting Cheng. **2023**, *EMNLP Main Conference*
 
 - [A Compact Hardware Architecture for Bilateral Filter with the Combination of Approximate Computing and Look-up Table](https://ieeexplore.ieee.org/abstract/document/9733932). Ruoheng Yao, Lei Chen, **Pingcheng Dong**, Zhuoyu Chen, Fengwei An. **2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs*
-
+ -->
 # 😀 Teaching Assistant
 - ELEC3400 Introduction to Integrated Circuits and Systems (2023 Spring)
 - ELEC4320 FPGA based Design: From Theory to Practice (2023 Fall)
