@@ -46,7 +46,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 # 📝 Main Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSCIRC</div><img src='images/DAC_GQA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DAC_GQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers
