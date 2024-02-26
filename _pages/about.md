@@ -46,7 +46,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 # 📝 Main Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/DAC_GQA2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/DAC_GQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers
@@ -96,7 +96,8 @@ Genetic Quantization-Aware Approximation for Non-Linear Operations in Transforme
 </div>
 
 
-- [A 139 fps pixel-level pipelined binocular stereo vision accelerator with region-optimized semi-global matching](https://ieeexplore.ieee.org/abstract/document/9634805). **Pingcheng Dong**, Zhuoao Li, Zhuoyu Chen, Ruoheng Yao, Huanshihong Deng, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An. *IEEE Asian Solid-State Circuits Conference (A-SSCC)*
+
+- [A 139 fps pixel-level pipelined binocular stereo vision accelerator with region-optimized semi-global matching](https://ieeexplore.ieee.org/abstract/document/9634805). **Pingcheng Dong**, Zhuoao Li, Zhuoyu Chen, Ruoheng Yao, Huanshihong Deng, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An. **2021** *IEEE Asian Solid-State Circuits Conference (A-SSCC)*
 
 - [Real-Time FPGA-Based Binocular Stereo Vision System with Semi-Global Matching Algorithm](https://ieeexplore.ieee.org/abstract/document/9739626). Zhuoyu Chen, **Pingchen Dong**, Zhuoao Li, Ruoheng Yao, Yunhao Ma, Xiwei Fang, Huanshihong Deng, Wenyue Zhang, Lei Chen, Fengwei An. **2021** *IEEE 34th International System-on-Chip Conference (SOCC)*
 
