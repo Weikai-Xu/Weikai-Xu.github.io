@@ -59,7 +59,7 @@ Genetic Quantization-Aware Approximation for Non-Linear Operations in Transforme
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSCIRC</div><img src='images/esscirc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/esscirc.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles](https://ieeexplore.ieee.org/document/10268790)
@@ -71,7 +71,7 @@ Genetic Quantization-Aware Approximation for Non-Linear Operations in Transforme
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-II</div><img src='images/tcas2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tcas2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Configurable Image Rectification and Disparity Refinement for Stereo Vision](https://ieeexplore.ieee.org/abstract/document/9832005)
@@ -83,7 +83,7 @@ Genetic Quantization-Aware Approximation for Non-Linear Operations in Transforme
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCAS-I</div><img src='images/tcas1.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/tcas1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A 4.29 nJ/pixel stereo depth coprocessor with pixel level pipeline and region optimized semi-global matching for IoT application](https://ieeexplore.ieee.org/abstract/document/9505253)
