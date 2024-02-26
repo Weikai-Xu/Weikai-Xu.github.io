@@ -49,11 +49,11 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSCIRC</div><img src='images/DAC_GQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers]
+Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers
 
-**Pingcheng Dong**, Zhuoyu Chen, Ke Li, Lei Chen, Kwang-Ting Cheng, Fengwei An. 
+**Pingcheng Dong**, Yonghao Tan, Dong Zhang, Tianwei Ni, Xuejiao Liu, Yu Liu, Peng Luo, Luhong Liang, Shih-Yang Liu, Xijie Huang, Huaiyu Zhu, Yun Pan, Fengwei An and Kwang-Ting Cheng.
 
-**2023**, *IEEE 49th European Solid State Circuits Conference (ESSCIRC)*
+**2024**, *61th ACM/IEEE Design Automation Conference (DAC)*
 
 </div>
 </div>
