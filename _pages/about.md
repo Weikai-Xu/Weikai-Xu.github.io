@@ -41,6 +41,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 # 🔥 News
 - *2022.6.6*: &nbsp;🎉🎉 Our stereo depth coprocessor has sucessfully been taped out in TSMC 28nm CMOS technology! 
 - *2023.5.24*: &nbsp;🎉🎉 One paper "A 1920×1080 129fps 4.3pJ/Pixel Stereo-Matching Processor for Pico Aerial Vehicles" has been accepted by IEEE ESSDERC/ESSCIRC 2023!
+- *2024.2.8*: &nbsp;🎉🎉 One collaborative paper "Stereo Matching Accelerator with Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles" has been accepted by IEEE Transactions on Circuits and Systems I: Regular Papers!
 - *2024.2.27*: &nbsp;🎉🎉 One paper "Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers" has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024! **(Acceptance Rate: 23%)**
 - *2024.2.27*: &nbsp;🎉🎉 One paper "Additive Partial Sum Quantization" has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024 Work-in-Progress Poster Session!
 
@@ -104,6 +105,8 @@ Genetic Quantization-Aware Approximation for Non-Linear Operations in Transforme
 - [Robot navigation based on pseudo-binocular stereo vision and linear fitting](https://ieeexplore.ieee.org/abstract/document/9332014). Huanshihong Deng, **Pingcheng Dong**, Zhuoao Li, Haoran Lyu, Yangyi Zhang, Yiwei Luo, Fengwei An. **2020** *IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)*
 
 # 📝 Collaborative Publications
+- Stereo Matching Accelerator with Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles. Ke Li, Xiwei Fang, Yunhao Ma, Wenyue Zhang, **Pingcheng Dong**, Zhuoyu Chen, Lei Chen, Fengwei An. **2024**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
+- 
 - [BREAD: Boundary and Relation Distillation for Semantic Segmentation](https://arxiv.org/abs/2401.13174). Dong Zhang, **Pingcheng Dong**, Xinting Hu, Long Chen, Kwang-Ting Cheng. **2024**, *arXiv*
 
 - [LLM-FP4: 4-Bit Floating-Point Quantized Transformers](https://arxiv.org/abs/2310.16836). Shih-yang Liu, Zechun Liu, Xijie Huang, **Pingcheng Dong**, Kwang-Ting Cheng. **2023**, *EMNLP Main Conference*
