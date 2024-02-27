@@ -106,7 +106,7 @@ Genetic Quantization-Aware Approximation for Non-Linear Operations in Transforme
 
 # 📝 Collaborative Publications
 - Stereo Matching Accelerator with Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles. Ke Li, Xiwei Fang, Yunhao Ma, Wenyue Zhang, **Pingcheng Dong**, Zhuoyu Chen, Lei Chen, Fengwei An. **2024**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
-- 
+
 - [BREAD: Boundary and Relation Distillation for Semantic Segmentation](https://arxiv.org/abs/2401.13174). Dong Zhang, **Pingcheng Dong**, Xinting Hu, Long Chen, Kwang-Ting Cheng. **2024**, *arXiv*
 
 - [LLM-FP4: 4-Bit Floating-Point Quantized Transformers](https://arxiv.org/abs/2310.16836). Shih-yang Liu, Zechun Liu, Xijie Huang, **Pingcheng Dong**, Kwang-Ting Cheng. **2023**, *EMNLP Main Conference*
