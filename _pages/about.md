@@ -33,8 +33,6 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 - *2022* Outstanding Graduate (Top 8 in the College of Engineering, SUSTech) 
 - *2021* China National Scholarship (Top 8 in SUSTech)
 - *2021* Scientific Research Star (Top 1 in Shuren College, SUSTech)
-- *2021* Shenzhen Longsys Electronics Company Award. (Top 2% in School of Microelectronics)
-- *2021* Best Presentation Award in IEEE CASS Shanghai and Shenzhen Joint Workshop 
 - *2020* The First Prize of Outstanding Students in SUSTech (Top 5% in SUSTech)
 - *2019* The Second Prize of Outstanding Students in SUSTech (Top 10% in SUSTech)
 
