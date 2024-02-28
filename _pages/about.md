@@ -105,7 +105,7 @@ Genetic Quantization-Aware Approximation for Non-Linear Operations in Transforme
 - [Robot navigation based on pseudo-binocular stereo vision and linear fitting](https://ieeexplore.ieee.org/abstract/document/9332014). Huanshihong Deng, **Pingcheng Dong**, Zhuoao Li, Haoran Lyu, Yangyi Zhang, Yiwei Luo, Fengwei An. **2020** *IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)*
 
 # 📝 Collaborative Publications
-- Stereo Matching Accelerator with Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles. Ke Li, Xiwei Fang, Yunhao Ma, Wenyue Zhang, **Pingcheng Dong**, Zhuoyu Chen, Lei Chen, Fengwei An. **2024**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
+- [Stereo Matching Accelerator with Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles](https://ieeexplore.ieee.org/document/10449892). Ke Li, Xiwei Fang, Yunhao Ma, Wenyue Zhang, **Pingcheng Dong**, Zhuoyu Chen, Lei Chen, Fengwei An. **2024**, *IEEE Transactions on Circuits and Systems I: Regular Papers*
 
 - [BREAD: Boundary and Relation Distillation for Semantic Segmentation](https://arxiv.org/abs/2401.13174). Dong Zhang, **Pingcheng Dong**, Xinting Hu, Long Chen, Kwang-Ting Cheng. **2024**, *arXiv*
 
