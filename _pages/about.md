@@ -42,7 +42,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 - *2024.2.8*: &nbsp;🎉🎉 One collaborative paper "Stereo Matching Accelerator with Re-Computation Scheme and Data-Reused Pipeline for Autonomous Vehicles" has been accepted by IEEE Transactions on Circuits and Systems I: Regular Papers!
 - *2024.2.27*: &nbsp;🎉🎉 One paper "Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers" has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024! **(Acceptance Rate: 23%)**
 - *2024.2.27*: &nbsp;🎉🎉 One paper "Additive Partial Sum Quantization" has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024 Work-in-Progress Poster Session!
-
+- *2024.5.9*: &nbsp;🎉🎉 I pass the PhD Qualifying Exam (PQE) and become a PhD candidate! 
 # 📝 Main Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAC_GQA.png' alt="sym" width="100%"></div></div>
