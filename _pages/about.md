@@ -28,6 +28,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 - *2015.09 - 2018.06*, [Guangdong Beijiang Middle School](https://zh.m.wikipedia.org/zh-hk/%E5%B9%BF%E4%B8%9C%E5%8C%97%E6%B1%9F%E4%B8%AD%E5%AD%A6). 
 
 # 🎖 Honors and Awards
+- *2024* HKUST RedBird Academic Excellence Award
 - *2022* Hong Kong PhD Fellowship 
 - *2022* HKUST RedBird PhD Scholarship
 - *2022* Outstanding Graduate (Top 8 in the College of Engineering, SUSTech) 
