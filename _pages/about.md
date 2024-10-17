@@ -48,7 +48,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 
 # 📝 Main Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/2024_ISSCC.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2024_ISSCC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation
