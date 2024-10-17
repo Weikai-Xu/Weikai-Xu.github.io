@@ -25,7 +25,7 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 # 📖 Educations
 - *2022.09 - Present*, PhD in Electronics and Computer Engineering, Hong Kong University of Science and Technology.
 - *2018.08 - 2022.06*, BEng in Microelectronics Science and Engineering, School of Microelectronics, Southern University of Science and Technology. **GPA: 3.84/4.00, Rank: 4/93**
-- *2015.09 - 2018.06*, [Guangdong Beijiang Middle School](https://zh.m.wikipedia.org/zh-hk/%E5%B9%BF%E4%B8%9C%E5%8C%97%E6%B1%9F%E4%B8%AD%E5%AD%A6). 
+- *2015.09 - 2018.06*, [Guangdong Beijiang Middle School](https://zh.m.wikipedia.org/zh-hk/%E5%B9%BF%E4%B8%9C%E5%8C%97%E6%B1%9F%E4%B8%AD%E5%AD%A6).  
 
 # 🎖 Honors and Awards
 - *2024* HKUST RedBird Academic Excellence Award
