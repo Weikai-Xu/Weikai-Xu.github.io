@@ -99,6 +99,8 @@ Genetic Quantization-Aware Approximation for Non-Linear Operations in Transforme
 </div>
 
 
+- [Configurable Image Rectification and Disparity Refinement for Stereo Vision](https://ieeexplore.ieee.org/abstract/document/9832005). **Pingcheng Dong**, Zhuoyu Chen, Zhuoao Li, Ruoheng Yao, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An. **2022** *IEEE Transactions on Circuits and Systems II: Express Briefs (TCAS-II)*
+
 
 - [A 139 fps pixel-level pipelined binocular stereo vision accelerator with region-optimized semi-global matching](https://ieeexplore.ieee.org/abstract/document/9634805). **Pingcheng Dong**, Zhuoao Li, Zhuoyu Chen, Ruoheng Yao, Huanshihong Deng, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An. **2021** *IEEE Asian Solid-State Circuits Conference (A-SSCC)*
 
