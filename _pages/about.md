@@ -86,18 +86,6 @@ Genetic Quantization-Aware Approximation for Non-Linear Operations in Transforme
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/tcas2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Configurable Image Rectification and Disparity Refinement for Stereo Vision](https://ieeexplore.ieee.org/abstract/document/9832005)
-
-**Pingcheng Dong**, Zhuoyu Chen, Zhuoao Li, Ruoheng Yao, Wenyue Zhang, Yangyi Zhang, Lei Chen, Chao Wang, Fengwei An. 
-
-**2022**, *IEEE Transactions on Circuits and Systems II: Express Briefs*
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/tcas1.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
