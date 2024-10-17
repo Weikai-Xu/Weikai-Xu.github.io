@@ -44,8 +44,22 @@ E-mail: pingcheng.dong@connect.ust.hk \| WeChat: PN-Junction
 - *2024.2.27*: &nbsp;🎉🎉 One paper "Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers" has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024! **(Acceptance Rate: 23%)**
 - *2024.2.27*: &nbsp;🎉🎉 One paper "Additive Partial Sum Quantization" has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024 Work-in-Progress Poster Session!
 - *2024.5.9*: &nbsp;🎉🎉 I pass the PhD Qualifying Exam (PQE) and become a PhD candidate! 
+- *2024.10.11*: &nbsp;🎉🎉 One paper "A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation" has been accepted by IEEE International Solid-State Circuits Conference (ISSCC), 2025!
 
 # 📝 Main Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/2024_ISSCC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+A 28nm 0.22μJ/Token Memory-Compute-Intensity-Aware CNN-Transformer Accelerator with Hybrid-Attention-Based Layer-Fusion and Cascaded Pruning for Semantic-Segmentation
+
+**Pingcheng Dong**, Yonghao Tan, Xuejiao Liu, Peng Luo, Yu Liu, Luhong Liang, Yitong Zhou, Di Pang, Manto Yung, Dong Zhang, Xijie Huang, Shih-Yang Liu, Yongkun Wu, Fengshi Tian, Chi-Ying Tsui, Fengbin Tu, Kwang-Ting Cheng.
+
+**2025**, *IEEE International Solid-State Circuits Conference (ISSCC)*
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/DAC_GQA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
