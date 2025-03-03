@@ -19,6 +19,20 @@ redirect_from:
 
 I'm currently a PhD student in the School of Integrated Circuits, Peking University, under the supervision of [Prof. Ru Huang](https://ic.pku.edu.cn/szdw/ysfc/hr/33636f0f07244a1e919731dface7f190.htm). I am also privileged to be advised by [Prof. Qianqian Huang](http://scholar.pku.edu.cn/qianqianhuang/jianjie) and [Prof. Meng Li](https://mengli.me/). My research interests lie on emerging device-based memories, in-memory computing and searching circuits and architectures, and algorithm-hardware co-design for AI acceleration.
 
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+
+# 🎖 Honors and Awards
+- 2024 China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Project)
+- 2024 China National Scholarship (Top 1 in School of Integrated Circuits, PKU)
+- 2024 PKU Academic Innovation Award (The Only Recipient in School of Integrated Circuits, PKU)
+- 2020 China National Scholarship (Top 1 in College of Electronic Information and 0ptical Engineerings, NKU)
+- 2019 China National Scholarship (Top 1 in College of Electronic Information and 0ptical Engineerings, NKU)
+- 2018 China National Scholarship (Top 1 in College of Electronic Information and 0ptical Engineerings, NKU)
+
+
 
 # 🔥 News
 - Mar 2025: I was selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Project) 🎉🎉🎉.
@@ -40,8 +54,6 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 - Apr 2022: One paper has been accepted by IEEE Symposium on VLSI Technology and Circuits 2022 🎉🎉🎉.
 - Nov 2021: One paper has been accepted by China Semiconductor Technology International Conference (CSTIC) 2022 🎉.
 - Sep 2021: One collaborative paper has been accepted by IEEE International Electron Devices Meeting (IEDM) 2022 🎉.
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -59,13 +71,7 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
