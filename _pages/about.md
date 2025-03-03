@@ -20,9 +20,8 @@ redirect_from:
 I'm currently a PhD student in the School of Integrated Circuits, Peking University, under the supervision of [Prof. Ru Huang](https://ic.pku.edu.cn/szdw/ysfc/hr/33636f0f07244a1e919731dface7f190.htm). I am also privileged to be advised by [Prof. Qianqian Huang](http://scholar.pku.edu.cn/qianqianhuang/jianjie) and [Prof. Meng Li](https://mengli.me/). My research interests lie on emerging device-based memories, in-memory computing and searching circuits and architectures, and algorithm-hardware co-design for AI acceleration.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- 2021.09 - Present, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- 2017.09 - 2021.06, Bachelor of Science in Microelectronics Science and Engineering, College of Electronic Information and 0ptical Engineerings, Nankai University. GPA: 94.51/100, Rank：1/51
 
 # 🎖 Honors and Awards
 - 2024 China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Project)
@@ -31,7 +30,6 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 - 2020 China National Scholarship (Top 1 in College of Electronic Information and 0ptical Engineerings, NKU)
 - 2019 China National Scholarship (Top 1 in College of Electronic Information and 0ptical Engineerings, NKU)
 - 2018 China National Scholarship (Top 1 in College of Electronic Information and 0ptical Engineerings, NKU)
-
 
 
 # 🔥 News
