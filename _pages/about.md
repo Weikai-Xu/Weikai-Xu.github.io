@@ -56,7 +56,7 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 
 # 📝 Publications (First author or co-first author) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEDM 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEDM 2024</div><img src='images/IEDM24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Novel Ferroelectric-Based Ising Machine Featuring Reconfigurable Arbitrary Ising Graph and Controllable Annealing Through Device-Algorithm Co-Optimization](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:dhFuZR0502QC)
