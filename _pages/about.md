@@ -17,12 +17,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm currently a PhD student in the School of Integrated Circuits, Peking University, under the supervision of [Prof. Ru Huang](https://ic.pku.edu.cn/szdw/ysfc/hr/33636f0f07244a1e919731dface7f190.htm). I am also privileged to be advised by [Prof. Qianqian Huang](http://scholar.pku.edu.cn/qianqianhuang/jianjie) and [Prof. Meng Li](https://mengli.me/). My research interests lie on emerging device-based memories, in-memory computing and searching circuits and architectures, and algorithm-hardware co-design for AI acceleration.
 
 
 # 🔥 News
+- Mar 2025: 🎉 I was selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Project).
+- Feb 2025: 🎉 One paper has been accepted by ACM/IEEE Design Automation Conference (DAC) 2025.
+- Jan 2025: 🎉 One paper has been accepted by IEEE Electron Devices Technology and Manufacturing Conference (EDTM) 2025.
+- Nov 2024: 🎉 One paper has been accepted by Design, Automation & Test in Europe Conference (DATE) 2025.
+- Sep 2024: 🎉 Two papers have been accepted by IEEE International Electron Devices Meeting (IEDM) 2024.
+- May 2024: 🎉 One paper has been accepted by IEEE European Solid-State Electronics Research Conference (ESSERC) 2024.
+- May 2024: 🎉 One paper has been accepted in IEEE Electron Device Letters.
+- Feb 2024: 🎉 One paper has been accepted by ACM/IEEE Design Automation Conference (DAC) 2024.
+- Jan 2024: 🎉 Two papers have been accepted by IEEE Electron Devices Technology and Manufacturing Conference (EDTM) 2024.
+- Nov 2023: 🎉 One paper has been accepted in IEEE Electron Device Letters.
+- Apr 2023: 🎉 One paper has been accepted by Silicon Nanoelectronics Workshop (SNW)
+- Feb 2023: 🎉 One collaborative paper has been accepted by China Semiconductor Technology International Conference (CSTIC) 2023.
+- Jan 2023: 🎉 One paper has been accepted by IEEE Electron Devices Technology and Manufacturing Conference (EDTM) 2023.
+- Jan 2023: 🎉 One paper has been accepted in Solid-State Electronics.
+- Sep 2022: 🎉 Two collaborative papers have been accepted by IEEE International Electron Devices Meeting (IEDM) 2023.
+- Jun 2022: 🎉 I received the Best Student Award (1st Prize) of CSTIC 2022.
+- Apr 2022: 🎉 One paper has been accepted by IEEE Symposium on VLSI Technology and Circuits 2022.
+- Nov 2021: 🎉 One paper has been accepted by China Semiconductor Technology International Conference (CSTIC) 2022.
+- Sep 2021: 🎉 One collaborative paper has been accepted by IEEE International Electron Devices Meeting (IEDM) 2022.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
