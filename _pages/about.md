@@ -21,7 +21,7 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 
 # 📖 Educations
 - 2021.09 - Present, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- 2017.09 - 2021.06, Bachelor of Science in Microelectronics Science and Engineering, College of Electronic Information and 0ptical Engineerings, Nankai University. **GPA: 94.51/100, Rank：1/51**
+- 2017.09 - 2021.06, Bachelor of Science in Microelectronics Science and Engineering, College of Electronic Information and 0ptical Engineerings, Nankai University. **GPA: 94.51/100, Rank: 1/51**
 
 
 # 🎖 Honors and Awards
