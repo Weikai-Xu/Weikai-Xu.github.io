@@ -54,22 +54,9 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 - Nov 2021: One paper has been accepted by 2022 China Semiconductor Technology International Conference (CSTIC) 🎉.
 - Sep 2021: One collaborative paper has been accepted by 2022 IEEE International Electron Devices Meeting (IEDM) 🎉.
 
-# 📝 Publications (First author or co-first author) 
+# 📝 Publications
 
-## First author or co-first author
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEDM 2024</div><img src='images/IEDM24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Novel Ferroelectric-Based Ising Machine Featuring Reconfigurable Arbitrary Ising Graph and Controllable Annealing Through Device-Algorithm Co-Optimization](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:dhFuZR0502QC)
-
-**Weikai Xu**, Jin Luo, Zhiyuan Fu, Runze Han, Shengyu Bao, Kaifeng Wang, Qianqian Huang, Ru Huang
-
-IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2024S
-
-</div>
-</div>
-
+## First-author papers
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEDM 2024</div><img src='images/IEDM24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -78,7 +65,20 @@ IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2024
 
 **Weikai Xu**, Jin Luo, Zhiyuan Fu, Runze Han, Shengyu Bao, Kaifeng Wang, Qianqian Huang, Ru Huang
 
-IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2024S
+IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2024.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/IEDM24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Compact and Efficient CAM Architecture through Combinatorial Encoding and Self-Terminating Searching for In-Memory-Searching Accelerator](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:M3ejUd6NZC8C)
+
+**Weikai Xu**, Jin Luo, Qianqian Huang, Ru Huang
+
+ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2024.
 
 </div>
 </div>
