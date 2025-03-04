@@ -280,11 +280,12 @@ IEEE Electron Device Letters, 2023.
 - [一种基于铁电晶体管的延时调制方法](http://epub.cnipa.gov.cn/patent/CN113903378A) (CN113903378A). 黄如; 罗金; **徐伟凯**; 黄芊芊. China Patent, 2022.
 
 
-
+<!--
 # 💬 Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 - [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+-->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 2024.02 - 2024.05, [SOPHGO](https://www.sophgo.com/about-us/index.html), China.
