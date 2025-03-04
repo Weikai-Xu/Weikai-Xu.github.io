@@ -57,35 +57,6 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 # 📝 Publications
 
 
-## First-author papers (Journal)
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EDL</div><img src='images/EDL24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Novel Ferroelectric FET based Universal Content Addressable Memory with Reconfigurability for Area-and Energy-Efficient In-Memory-Searching System](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:_kc_bZDykSQC)
-
-**Weikai Xu**, Jin Luo, Zerui Chen, Boyi Fu, Zhiyuan Fu, Kaifeng Wang, Qianqian Huang, Ru Huang
-
-IEEE Electron Device Letters, 2024.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EDL</div><img src='images/EDL23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Novel Small-Signal Ferroelectric Capacitance based Content Addressable Memory for Area-and Energy-Efficient Lifelong Learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:kNdYIx-mwKoC)
-
-**Weikai Xu<sup>#</sup>**, Zhiyuan Fu<sup>#</sup>, Kaifeng Wang, Chang Su, Jin Luo, Zerui Chen, Qianqian Huang, Ru Huang
-
-IEEE Electron Device Letters, 2023.
-
-</div>
-</div>
-
-
 ## First-author papers (Conference)
 
 
@@ -243,6 +214,36 @@ IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), H
 
 </div>
 </div>
+
+
+## First-author papers (Journal)
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EDL</div><img src='images/EDL24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel Ferroelectric FET based Universal Content Addressable Memory with Reconfigurability for Area-and Energy-Efficient In-Memory-Searching System](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:_kc_bZDykSQC)
+
+**Weikai Xu**, Jin Luo, Zerui Chen, Boyi Fu, Zhiyuan Fu, Kaifeng Wang, Qianqian Huang, Ru Huang
+
+IEEE Electron Device Letters, 2024.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EDL</div><img src='images/EDL23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel Small-Signal Ferroelectric Capacitance based Content Addressable Memory for Area-and Energy-Efficient Lifelong Learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:kNdYIx-mwKoC)
+
+**Weikai Xu<sup>#</sup>**, Zhiyuan Fu<sup>#</sup>, Kaifeng Wang, Chang Su, Jin Luo, Zerui Chen, Qianqian Huang, Ru Huang
+
+IEEE Electron Device Letters, 2023.
+
+</div>
+</div>
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
