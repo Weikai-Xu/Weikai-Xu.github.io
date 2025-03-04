@@ -34,25 +34,25 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 
 
 # 🔥 News
-- Mar 2025: I was selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Project) 🎉🎉🎉.
-- Feb 2025: One paper has been accepted by 2025 ACM/IEEE Design Automation Conference (DAC) 🎉🎉🎉.
-- Jan 2025: One paper has been accepted by 2025 IEEE Electron Devices Technology and Manufacturing Conference (EDTM) 🎉.
-- Nov 2024: One paper has been accepted by 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE) 🎉🎉.
-- Sep 2024: Two papers have been accepted by 2024 IEEE International Electron Devices Meeting (IEDM) 🎉🎉🎉.
-- May 2024: One paper has been accepted by 2024 IEEE European Solid-State Electronics Research Conference (ESSERC) 🎉🎉.
-- May 2024: One paper has been accepted in IEEE Electron Device Letters 🎉🎉.
-- Feb 2024: One paper has been accepted by 2024 ACM/IEEE Design Automation Conference (DAC) 🎉🎉🎉.
-- Jan 2024: Two papers have been accepted by 2024 IEEE Electron Devices Technology and Manufacturing Conference (EDTM) 🎉.
-- Nov 2023: One paper has been accepted in IEEE Electron Device Letters 🎉🎉.
-- Apr 2023: One paper has been accepted by 2023 Silicon Nanoelectronics Workshop (SNW).
-- Feb 2023: One collaborative paper has been accepted by 2023 China Semiconductor Technology International Conference (CSTIC) 🎉.
-- Jan 2023: One paper has been accepted by 2023 IEEE Electron Devices Technology and Manufacturing Conference (EDTM) 🎉.
-- Jan 2023: One paper has been accepted in Solid-State Electronics 🎉.
-- Sep 2022: Two collaborative papers have been accepted by IEEE International Electron Devices Meeting (IEDM) 2023 🎉.
-- Jun 2022: I received the Best Student Award (1st Prize) of CSTIC 2022 🎉🎉🎉.
-- Apr 2022: One paper has been accepted by 2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits) 🎉🎉🎉.
-- Nov 2021: One paper has been accepted by 2022 China Semiconductor Technology International Conference (CSTIC) 🎉.
-- Sep 2021: One collaborative paper has been accepted by 2022 IEEE International Electron Devices Meeting (IEDM) 🎉.
+- 2025.03: 🏆 I was selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Project).
+- 2025.02: 🎉 One paper has been accepted by 2025 ACM/IEEE Design Automation Conference (DAC).
+- 2025.01: 🎉 One paper has been accepted by 2025 IEEE Electron Devices Technology and Manufacturing Conference (EDTM).
+- 2024.11: 🎉 One paper has been accepted by 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE).
+- 2024.09: 🎉 Two papers have been accepted by 2024 IEEE International Electron Devices Meeting (IEDM).
+- 2024.05: 🎉 One paper has been accepted by 2024 IEEE European Solid-State Electronics Research Conference (ESSERC).
+- 2024.05: 🎉 One paper has been accepted in IEEE Electron Device Letters.
+- 2024.02: 🎉 One paper has been accepted by 2024 ACM/IEEE Design Automation Conference (DAC).
+- 2024.01: 🎉 Two papers have been accepted by 2024 IEEE Electron Devices Technology and Manufacturing Conference (EDTM).
+- 2023.11: 🎉 One paper has been accepted in IEEE Electron Device Letters.
+- 2023.04: 🎉 One paper has been accepted by 2023 Silicon Nanoelectronics Workshop (SNW).
+- 2023.02: 🎉 One collaborative paper has been accepted by 2023 China Semiconductor Technology International Conference (CSTIC).
+- 2023.01: 🎉 One paper has been accepted by 2023 IEEE Electron Devices Technology and Manufacturing Conference (EDTM).
+- 2023.01: 🎉 One paper has been accepted in Solid-State Electronics.
+- 2022.09: 🎉 Two collaborative papers have been accepted by IEEE International Electron Devices Meeting (IEDM) 2023.
+- 2022.06: 🏆 I received the Best Student Award (1st Prize) of CSTIC 2022.
+- 2022.05: 🎉 One paper has been accepted by 2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits).
+- 2021.11: 🎉 One paper has been accepted by 2022 China Semiconductor Technology International Conference (CSTIC).
+- 2021.09: 🎉 One collaborative paper has been accepted by 2022 IEEE International Electron Devices Meeting (IEDM).
 
 # 📝 Publications
 
@@ -243,6 +243,12 @@ IEEE Electron Device Letters, 2023.
 
 </div>
 </div>
+
+
+## Collaborative papers
+
+-[Experimental Demonstration of Resonant Adiabatic Writing and Computing in Ferroelectric Capacitive Memory Array for Energy-Efficient Edge AI](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:7PzlFSSx8tAC). Jin Luo, Bingrui Song, Yuxin Lin, Zhiyuan Fu, Boyi Fu, **Weikai Xu**, Linxiao Shen, Yuan Wang, Qianqian Huang, Ru Huang. IEEE International Electron Devices Meeting (IEDM), 2024.
+
 
 
 # 💬 Invited Talks
