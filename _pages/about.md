@@ -85,6 +85,19 @@ Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EDTM 2025</div><img src='images/EDTM25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel FeFET-based Multibit Content Addressable Memory through Thermometer Encoding for Manhattan Distance Metric with High Area- and Energy-Efficiency](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:IWHjjKOFINEC)
+
+**Weikai Xu<sup>#</sup>**, Zeyu Zhang<sup>#</sup>, Qianqian Huang, Ru Huang
+
+IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Hong Kong, China, 2025.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEDM 2024</div><img src='images/IEDM24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
