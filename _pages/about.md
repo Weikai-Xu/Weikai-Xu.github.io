@@ -193,6 +193,30 @@ Silicon Nanoelectronics Workshop (SNW), Kyoto, Japan, 2023.
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSTIC 2022</div><img src='images/CSTIC22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Novel Negative-Feedback Method for Writing Variation Suppression in FeFET-Based Computing-in-Memory Macro](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:u5HHmVD_uO8C)
+
+**Weikai Xu**, Jin Luo, Qianqian Huang, Ru Huang
+
+Silicon Nanoelectronics Workshop (SNW), Kyoto, Japan, 2023.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLSI 2022</div><img src='images/VLSI22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel Ferroelectric Tunnel FET-based Time-Domain Content Addressable Memory with High Distance-Metric Linearity and Energy Efficiency for Edge Machine Learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:UebtZRa9Y70C)
+
+**Weikai Xu**, Jin Luo, Qianqian Huang, Ru Huang
+
+Silicon Nanoelectronics Workshop (SNW), Kyoto, Japan, 2023.
+
+</div>
+</div>
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
