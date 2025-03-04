@@ -56,6 +56,10 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 
 # 📝 Publications
 
+
+## First-author papers (Journal)
+
+
 ## First-author papers (Conference)
 
 
@@ -163,8 +167,18 @@ IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Bangalore, I
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EDTM 2023</div><img src='images/EDTM23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-## First-author papers (Journal)
+[A Novel Pulse-Width-Modulated FeFET-based Analog Content Addressable Memory with High Area-and Energy-Efficiency](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:roLk4NBRz8UC)
+
+**Weikai Xu**, Jin Luo, Qianqian Huang, Ru Huang
+
+IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Seoul, Republic of Korea, 2023.
+
+</div>
+</div>
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
