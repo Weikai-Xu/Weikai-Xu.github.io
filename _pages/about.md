@@ -261,22 +261,23 @@ IEEE Electron Device Letters, 2023.
 
 
 ## Patents
-- [基于铁电场效应晶体管的非易失性查找表架构](http://epub.cnipa.gov.cn/patent/CN118466689A) (CN118466689A). 黄如; **徐伟凯**; 黄芊芊. CN Patent, 2024.
-- [一种基于温度计编码内容可寻址存储器实现曼哈顿距离度量的方法](http://epub.cnipa.gov.cn/patent/CN118395202A) (CN118395202A). 黄如; **徐伟凯**; 黄芊芊. CN Patent, 2024.
-- [一种可配置连接的尹辛机求解器](http://epub.cnipa.gov.cn/patent/CN118380025A) (CN118380025A). 黄如; **徐伟凯**; 黄芊芊. CN Patent, 2024.
-- [基于铁电场效应晶体管可编程反相器的施密特触发器](http://epub.cnipa.gov.cn/patent/CN118335141A) (CN118335141A). 黄如; **徐伟凯**; 黄芊芊. CN Patent, 2024.
-- [基于铁电场效应晶体管的非易失性静态随机存取存储器](http://epub.cnipa.gov.cn/patent/CN118298871A) (CN118298871A). 黄如; **徐伟凯**; 黄芊芊. CN Patent, 2024.
-- [一种实现静态和动态多值内容可寻址存储器的方法](http://epub.cnipa.gov.cn/patent/CN117373511A) (CN117373511A). 黄如; **徐伟凯**; 黄芊芊. CN Patent, 2024.
-- [一种时间域内容可寻址存储器及其应用](http://epub.cnipa.gov.cn/patent/CN116612792A) (CN116612792A). 黄如; **徐伟凯**; 黄芊芊. CN Patent, 2023.
-- [基于N型和P型铁电场效应晶体管实现通用内容可寻址存储器的方法](http://epub.cnipa.gov.cn/patent/CN116580733A) (CN116580733A). 黄芊芊; **徐伟凯**; 黄如. CN Patent, 2023.
-- [一种内容可寻址存储器的组合编码方法](http://epub.cnipa.gov.cn/patent/CN116501261A) (CN116501261A). 黄如; **徐伟凯**; 黄芊芊. CN Patent, 2023.
-- [基于脉冲宽度调制铁电场效应晶体管实现模拟和多值内容可寻址存储器的方法](http://epub.cnipa.gov.cn/patent/CN116110450A) (CN116110450A). 黄如; **徐伟凯**; 黄芊芊. CN Patent, 2023.
-- [基于非破坏性读出的小信号铁电电容实现存内计算的方法](http://epub.cnipa.gov.cn/patent/CN115565574A) (CN115565574A). 黄如; **徐伟凯**; 符芷源; 黄芊芊. CN Patent, 2023.
-- [基于具有双极特性场效应晶体管实现内容可寻址存储器的方法](http://epub.cnipa.gov.cn/patent/CN115472194A) (CN115472194A). 黄如; **徐伟凯**; 罗金; 黄芊芊. CN Patent, 2022.
-- [基于铁电隧穿场效应晶体管FeTFET实现多值内容可寻址存储器MCAM的方法](http://epub.cnipa.gov.cn/patent/CN114758695A) (CN114758695A). 黄如; **徐伟凯**; 罗金; 黄芊芊. CN Patent, 2022.
-- [基于铁电隧穿场效应晶体管FeTFET实现三态内容可寻址存储器TCAM的方法](http://epub.cnipa.gov.cn/patent/CN114743578A) (CN114743578A). 黄如; **徐伟凯**; 罗金; 黄芊芊. CN Patent, 2022.
-- [一种抑制铁电晶体管FeFET写涨落的方法](http://epub.cnipa.gov.cn/patent/CN114093397A) (CN114093397A). 黄如; 罗金; **徐伟凯**; 黄芊芊. CN Patent, 2022.
-- [一种基于铁电晶体管的延时调制方法](http://epub.cnipa.gov.cn/patent/CN113903378A) (CN113903378A). 黄如; 罗金; **徐伟凯**; 黄芊芊. CN Patent, 2022.
+- [Method for Implementing Content-Addressable Memory Based on Ambipolar FET](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&pagesize=80&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:9ZlFYXVOiuMC) (US18715959). Ru Huang, **Weikai XU**, Jin Luo, Qianqian Huang. US Patent, 2024.
+- [基于铁电场效应晶体管的非易失性查找表架构](http://epub.cnipa.gov.cn/patent/CN118466689A) (CN118466689A). 黄如; **徐伟凯**; 黄芊芊. China Patent, 2024.
+- [一种基于温度计编码内容可寻址存储器实现曼哈顿距离度量的方法](http://epub.cnipa.gov.cn/patent/CN118395202A) (CN118395202A). 黄如; **徐伟凯**; 黄芊芊. China Patent, 2024.
+- [一种可配置连接的尹辛机求解器](http://epub.cnipa.gov.cn/patent/CN118380025A) (CN118380025A). 黄如; **徐伟凯**; 黄芊芊. China Patent, 2024.
+- [基于铁电场效应晶体管可编程反相器的施密特触发器](http://epub.cnipa.gov.cn/patent/CN118335141A) (CN118335141A). 黄如; **徐伟凯**; 黄芊芊. China Patent, 2024.
+- [基于铁电场效应晶体管的非易失性静态随机存取存储器](http://epub.cnipa.gov.cn/patent/CN118298871A) (CN118298871A). 黄如; **徐伟凯**; 黄芊芊. China Patent, 2024.
+- [一种实现静态和动态多值内容可寻址存储器的方法](http://epub.cnipa.gov.cn/patent/CN117373511A) (CN117373511A). 黄如; **徐伟凯**; 黄芊芊.  Patent, 2024.
+- [一种时间域内容可寻址存储器及其应用](http://epub.cnipa.gov.cn/patent/CN116612792A) (CN116612792A). 黄如; **徐伟凯**; 黄芊芊. China Patent, 2023.
+- [基于N型和P型铁电场效应晶体管实现通用内容可寻址存储器的方法](http://epub.cnipa.gov.cn/patent/CN116580733A) (CN116580733A). 黄芊芊; **徐伟凯**; 黄如. China Patent, 2023.
+- [一种内容可寻址存储器的组合编码方法](http://epub.cnipa.gov.cn/patent/CN116501261A) (CN116501261A). 黄如; **徐伟凯**; 黄芊芊. China Patent, 2023.
+- [基于脉冲宽度调制铁电场效应晶体管实现模拟和多值内容可寻址存储器的方法](http://epub.cnipa.gov.cn/patent/CN116110450A) (CN116110450A). 黄如; **徐伟凯**; 黄芊芊. China Patent, 2023.
+- [基于非破坏性读出的小信号铁电电容实现存内计算的方法](http://epub.cnipa.gov.cn/patent/CN115565574A) (CN115565574A). 黄如; **徐伟凯**; 符芷源; 黄芊芊. China Patent, 2023.
+- [基于具有双极特性场效应晶体管实现内容可寻址存储器的方法](http://epub.cnipa.gov.cn/patent/CN115472194A) (CN115472194A). 黄如; **徐伟凯**; 罗金; 黄芊芊. China Patent, 2022.
+- [基于铁电隧穿场效应晶体管FeTFET实现多值内容可寻址存储器MCAM的方法](http://epub.cnipa.gov.cn/patent/CN114758695A) (CN114758695A). 黄如; **徐伟凯**; 罗金; 黄芊芊. China Patent, 2022.
+- [基于铁电隧穿场效应晶体管FeTFET实现三态内容可寻址存储器TCAM的方法](http://epub.cnipa.gov.cn/patent/CN114743578A) (CN114743578A). 黄如; **徐伟凯**; 罗金; 黄芊芊. China Patent, 2022.
+- [一种抑制铁电晶体管FeFET写涨落的方法](http://epub.cnipa.gov.cn/patent/CN114093397A) (CN114093397A). 黄如; 罗金; **徐伟凯**; 黄芊芊. China Patent, 2022.
+- [一种基于铁电晶体管的延时调制方法](http://epub.cnipa.gov.cn/patent/CN113903378A) (CN113903378A). 黄如; 罗金; **徐伟凯**; 黄芊芊. China Patent, 2022.
 
 
 
