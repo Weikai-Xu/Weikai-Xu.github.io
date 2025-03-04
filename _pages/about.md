@@ -59,7 +59,7 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 ## First-author papers
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/DAC25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/DAC2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UniCAIM: A Unified CAM/CIM Architecture with Static-Dynamic KV Cache Pruning for Efficient Long-Context LLM Inference](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:L8Ckcad2t8MC)
