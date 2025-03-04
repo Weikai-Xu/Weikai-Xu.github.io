@@ -260,10 +260,13 @@ IEEE Electron Device Letters, 2023.
 -[Energy-and area-efficient Fe-FinFET-based time-domain mixed-signal computing in memory for edge machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:u-x6o8ySG0sC). Jin Luo, **Weikai Xu**, Yide Du, Boyi Fu, Jiahao Song, Zhiyuan Fu, Mengxuan Yang, Yiqing Li, Le Ye, Qianqian Huang, Ru Huang. IEEE International Electron Devices Meeting (IEDM), 2021.
 
 
+## Patents
+- [基于铁电场效应晶体管的非易失性查找表架构](http://epub.cnipa.gov.cn/patent/CN118466689A) (CN118466689A, 2024)
+Authors: 黄如; **徐伟凯**; 黄芊芊
 
 
 
-# 💬 Invited Talks
+# 💬 Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 - [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
