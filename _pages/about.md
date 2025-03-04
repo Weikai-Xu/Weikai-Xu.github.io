@@ -56,7 +56,7 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 
 # 📝 Publications
 
-## First-author papers
+## First-author papers (Conference)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/DAC2025.png' alt="sym" width="100%"></div></div>
@@ -137,8 +137,34 @@ IEEE European Solid-State Electronics Research Conference (ESSERC), Bruges, Belg
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EDTM 2024</div><img src='images/EDTM240.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel Small-Signal Ferroelectric Memcapacitor based Capacitive Computing-In-Memory for Area-and Energy-Efficient Quantized Neural Networks](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:YOwf2qJgpHMC)
+
+**Weikai Xu**, Jin Luo, Boyi Fu, Zhiyuan Fu, Kaifeng Wang, Chang Su, Qianqian Huang, Ru Huang
+
+IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Bangalore, India, 2024.
 
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EDTM 2024</div><img src='images/EDTM241.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel Complementary Ferroelectric FET based Compressed Multibit Content Addressable Memory with High Area-and Energy-Efficiency](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:ULOm3_A8WrAC)
+
+**Weikai Xu**, Jin Luo, Zhiyuan Fu, Kaifeng Wang, Qianqian Huang, Ru Huang
+
+IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Bangalore, India, 2024.
+
+</div>
+</div>
+
+
+
+## First-author papers (Journal)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
