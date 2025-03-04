@@ -37,7 +37,7 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 - Mar 2025: I was selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Project) 🎉🎉🎉.
 - Feb 2025: One paper has been accepted by 2025 ACM/IEEE Design Automation Conference (DAC) 🎉🎉🎉.
 - Jan 2025: One paper has been accepted by 2025 IEEE Electron Devices Technology and Manufacturing Conference (EDTM) 🎉.
-- Nov 2024: One paper has been accepted by 2025 Design, Automation & Test in Europe Conference (DATE) 🎉🎉.
+- Nov 2024: One paper has been accepted by 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE) 🎉🎉.
 - Sep 2024: Two papers have been accepted by 2024 IEEE International Electron Devices Meeting (IEDM) 🎉🎉🎉.
 - May 2024: One paper has been accepted by 2024 IEEE European Solid-State Electronics Research Conference (ESSERC) 🎉🎉.
 - May 2024: One paper has been accepted in IEEE Electron Device Letters 🎉🎉.
@@ -67,6 +67,19 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 **Weikai Xu<sup>#</sup>**, Wenxuan Zeng<sup>#</sup>, Qianqian Huang, Meng Li, Ru Huang
 
 ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2025.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DATE 2025</div><img src='images/DATE25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Compact Non-Volatile Lookup Table Architecture based on Ferroelectric FET Array through In-Situ Combinatorial One-Hot Encoding for Reconfigurable Computing](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:ZeXyd9-uunAC)
+
+**Weikai Xu**, Meng Li, Qianqian Huang, Ru Huang
+
+Design, Automation & Test in Europe Conference & Exhibition (DATE), Lyon, France, 2025.
 
 </div>
 </div>
