@@ -84,6 +84,18 @@ ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2024.
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ESSERC 2024</div><img src='images/ESSERC24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Novel Ferroelectric FET based Multibit Content Addressable Memory with Dynamic and Static Modes for Energy-Efficient Training and Inference](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:Wp0gIr-vW9MC)
+
+**Weikai Xu**, Jin Luo, Boyi Fu, Zerui Chen, Zhiyuan Fu, Kaifeng Wang, Qianqian Huang, Ru Huang
+
+IEEE European Solid-State Electronics Research Conference (ESSERC), Bruges, Belgium, 2024.
+
+</div>
+</div>
+
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
