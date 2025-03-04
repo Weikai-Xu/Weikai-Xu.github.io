@@ -249,6 +249,11 @@ IEEE Electron Device Letters, 2023.
 
 -[Experimental Demonstration of Resonant Adiabatic Writing and Computing in Ferroelectric Capacitive Memory Array for Energy-Efficient Edge AI](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:7PzlFSSx8tAC). Jin Luo, Bingrui Song, Yuxin Lin, Zhiyuan Fu, Boyi Fu, **Weikai Xu**, Linxiao Shen, Yuan Wang, Qianqian Huang, Ru Huang. IEEE International Electron Devices Meeting (IEDM), 2024.
 
+-[Design of Ferroelectric FET-Based Capacitive-Coupling Computing-In-Memory For Binary Neural Networks](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:hqOjcs7Dif8C). Boyi Fu, Jin Luo, **Weikai Xu**, Qianqian Huang, Ru Huang. China Semiconductor Technology International Conference (CSTIC), 2023.
+
+-[Novel ferroelectric tunnel FinFET based encryption-embedded computing-in-memory for secure AI with high area-and energy-efficiency](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:YsMSGLbcyi4C). Jin Luo, Hanyong Shao, Boyi Fu, Zhiyuan Fu, **Weikai Xu**, Kaifeng Wang, Mengxuan Yang, Yiqing Li, Xiao Lv, Qianqian Huang, Ru Huang. IEEE International Electron Devices Meeting (IEDM), 2022.
+
+-[Novel ferroelectric tunnel FinFET based encryption-embedded computing-in-memory for secure AI with high area-and energy-efficiency](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:YsMSGLbcyi4C). Jin Luo, Hanyong Shao, Boyi Fu, Zhiyuan Fu, **Weikai Xu**, Kaifeng Wang, Mengxuan Yang, Yiqing Li, Xiao Lv, Qianqian Huang, Ru Huang. IEEE International Electron Devices Meeting (IEDM), 2022.
 
 
 # 💬 Invited Talks
