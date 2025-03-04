@@ -50,7 +50,7 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 - Jan 2023: One paper has been accepted in Solid-State Electronics 🎉.
 - Sep 2022: Two collaborative papers have been accepted by IEEE International Electron Devices Meeting (IEDM) 2023 🎉.
 - Jun 2022: I received the Best Student Award (1st Prize) of CSTIC 2022 🎉🎉🎉.
-- Apr 2022: One paper has been accepted by 2022 IEEE Symposium on VLSI Technology and Circuits 🎉🎉🎉.
+- Apr 2022: One paper has been accepted by 2022 IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits) 🎉🎉🎉.
 - Nov 2021: One paper has been accepted by 2022 China Semiconductor Technology International Conference (CSTIC) 🎉.
 - Sep 2021: One collaborative paper has been accepted by 2022 IEEE International Electron Devices Meeting (IEDM) 🎉.
 
@@ -198,9 +198,9 @@ Silicon Nanoelectronics Workshop (SNW), Kyoto, Japan, 2023.
 
 [Novel Negative-Feedback Method for Writing Variation Suppression in FeFET-Based Computing-in-Memory Macro](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:u5HHmVD_uO8C)
 
-**Weikai Xu**, Jin Luo, Qianqian Huang, Ru Huang
+**Weikai Xu**, Jin Luo, Yide Du, Qianqian Huang, Ru Huang
 
-Silicon Nanoelectronics Workshop (SNW), Kyoto, Japan, 2023.
+China Semiconductor Technology International Conference (CSTIC), Shanghai, China, 2022.
 
 </div>
 </div>
@@ -209,11 +209,11 @@ Silicon Nanoelectronics Workshop (SNW), Kyoto, Japan, 2023.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLSI 2022</div><img src='images/VLSI22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Novel Ferroelectric Tunnel FET-based Time-Domain Content Addressable Memory with High Distance-Metric Linearity and Energy Efficiency for Edge Machine Learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:UebtZRa9Y70C)
+[A novel ambipolar ferroelectric tunnel FinFET based content addressable memory with ultra-low hardware cost and high energy efficiency for machine learning](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:d1gkVwhDpl0C)
 
-**Weikai Xu**, Jin Luo, Qianqian Huang, Ru Huang
+Jin Luo<sup>#</sup>, **Weikai Xu<sup>#</sup>**, Boyi Fu, Zheru Yu, Mengxuan Yang, Yiqing Li, Qianqian Huang, Ru Huang
 
-Silicon Nanoelectronics Workshop (SNW), Kyoto, Japan, 2023.
+IEEE Symposium on VLSI Technology and Circuits (VLSI Technology and Circuits), Honolulu, HI, USA, 2022.
 
 </div>
 </div>
