@@ -66,7 +66,7 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 
 **Weikai Xu<sup>#</sup>**, Wenxuan Zeng<sup>#</sup>, Qianqian Huang, Meng Li, Ru Huang
 
-IEEE European Solid-State Electronics Research Conference (ESSERC), Bruges, Belgium, 2024.
+ACM/IEEE Design Automation Conference (DAC), San Francisco, CA, USA, 2025.
 
 </div>
 </div>
