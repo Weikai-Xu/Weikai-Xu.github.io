@@ -71,7 +71,7 @@ IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, USA, 2024
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/IEDM24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2024</div><img src='images/DAC24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Compact and Efficient CAM Architecture through Combinatorial Encoding and Self-Terminating Searching for In-Memory-Searching Accelerator](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:M3ejUd6NZC8C)
