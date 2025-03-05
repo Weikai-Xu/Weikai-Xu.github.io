@@ -26,10 +26,20 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 
 # 🎖 Honors and Awards
 - 2024 China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Project)
-- 2024 China National Scholarship (Top 1 in School of Integrated Circuits, PKU)
+- 2024 China National Scholarship (Top 1 in School of Integrated Circuits, Peking University)
 - 2024 PKU Academic Innovation Award (The Only Recipient in School of Integrated Circuits, PKU)
+- 2024 PKU Pacemaker to Merit Student (Top 1 in School of Integrated Circuits, Peking University)
+
 - 2020 China National Scholarship (Top 1 in College of Electronic Information and 0ptical Engineerings, NKU)
+- 2020 Second Prize in the National Undergraduate Electronics Design Contest 'TI Cup' Analog Electronic System Design Invitational Competition
+--2020 First Prize in the Tianjin College Student Electronics Design Competition (First place)
+- 2020 Tianjin College Student of the Year (Top 1 in NKU)
+- 2020 Zhou Enlai Scholarship (Top 1 in NKU)
+
 - 2019 China National Scholarship (Top 1 in College of Electronic Information and 0ptical Engineerings, NKU)
+- 2019 Second Prize in the National Undergraduate Electronics Design Contest (First Place in the Tianjin Division)
+- 2019 First Prize in the Tianjin College Student Physics Competition
+
 - 2018 China National Scholarship (Top 1 in College of Electronic Information and 0ptical Engineerings, NKU)
 
 
