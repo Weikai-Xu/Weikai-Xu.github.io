@@ -44,6 +44,7 @@ I'm currently a PhD student in the School of Integrated Circuits, Peking Univers
 
 
 # 🔥 News
+- 2025.03: 🏆 I received the Best Paper Award of EDTM 2025.
 - 2025.03: 🏆 I was selected for the 2024 China Association for Science and Technology (CAST) Young Talent Support Program (PhD Special Project).
 - 2025.02: 🎉 One paper has been accepted by 2025 ACM/IEEE Design Automation Conference (DAC).
 - 2025.01: 🎉 One paper has been accepted by 2025 IEEE Electron Devices Technology and Manufacturing Conference (EDTM).
