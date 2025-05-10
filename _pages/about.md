@@ -272,7 +272,7 @@ IEEE Electron Device Letters, 2023.
 
 
 ## Patents
-- [Method for Implementing Content-Addressable Memory Based on Ambipolar FET](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&pagesize=80&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:9ZlFYXVOiuMC) (US18715959). Ru Huang, **Weikai XU**, Jin Luo, Qianqian Huang. US Patent, 2024.
+- [Method for Implementing Content-Addressable Memory Based on Ambipolar FET](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=nEtL4q8AAAAJ&pagesize=80&sortby=pubdate&citation_for_view=nEtL4q8AAAAJ:9ZlFYXVOiuMC) (US18715959). Ru Huang, **Weikai Xu**, Jin Luo, Qianqian Huang. US Patent, 2024.
 - [基于铁电场效应晶体管的非易失性查找表架构](http://epub.cnipa.gov.cn/patent/CN118466689A) (CN118466689A). 黄如; **徐伟凯**; 黄芊芊. China Patent, 2024.
 - [一种基于温度计编码内容可寻址存储器实现曼哈顿距离度量的方法](http://epub.cnipa.gov.cn/patent/CN118395202A) (CN118395202A). 黄如; **徐伟凯**; 黄芊芊. China Patent, 2024.
 - [一种可配置连接的尹辛机求解器](http://epub.cnipa.gov.cn/patent/CN118380025A) (CN118380025A). 黄如; **徐伟凯**; 黄芊芊. China Patent, 2024.
